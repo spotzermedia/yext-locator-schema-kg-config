@@ -31,6 +31,12 @@
         },
         {
           "id": "c_searchPlaceholderText"
+        },
+        {
+          "id": "c_noDataMessage"
+        },
+        {
+          "id": "c_withDataMessage"
         }
       ]
     },
