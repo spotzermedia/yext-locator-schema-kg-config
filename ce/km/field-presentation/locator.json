@@ -37,6 +37,12 @@
         },
         {
           "id": "c_withDataMessage"
+        },
+        {
+          "id": "c_locatorMetaTitle"
+        },
+        {
+          "id": "c_locatorMetaDescription"
         }
       ]
     },
@@ -58,3 +64,4 @@
     }
   ]
 }
+

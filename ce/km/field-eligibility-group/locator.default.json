@@ -4,6 +4,8 @@
   "name": "Locator-default",
   "entityType": "ce_locator",
   "fields": [
+    "c_locatorMetaDescription",
+    "c_locatorMetaTitle",
     "c_noDataMessage",
     "c_searchPlaceholderText",
     "c_searchSubTitle",
@@ -13,3 +15,4 @@
   ],
   "required": []
 }
+
