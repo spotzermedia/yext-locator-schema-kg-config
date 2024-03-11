@@ -6,11 +6,13 @@
   "fields": [
     "c_locatorMetaDescription",
     "c_locatorMetaTitle",
-    "c_noDataMessage",
+    "c_noResultMessage",
+    "c_searchNoResultMessage",
     "c_searchPlaceholderText",
     "c_searchSubTitle",
     "c_searchTitle",
-    "c_withDataMessage",
+    "c_searchWithResultMessage",
+    "c_withResultMessage",
     "slug"
   ],
   "required": []

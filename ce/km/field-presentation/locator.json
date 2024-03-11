@@ -33,10 +33,16 @@
           "id": "c_searchPlaceholderText"
         },
         {
-          "id": "c_noDataMessage"
+          "id": "c_noResultMessage"
         },
         {
-          "id": "c_withDataMessage"
+          "id": "c_withResultMessage"
+        },
+        {
+          "id": "c_searchNoResultMessage"
+        },
+        {
+          "id": "c_searchWithResultMessage"
         },
         {
           "id": "c_locatorMetaTitle"

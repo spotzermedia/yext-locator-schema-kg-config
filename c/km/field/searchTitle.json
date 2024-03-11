@@ -3,7 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Search Title",
   "group": "NONE",
-  "localization": "PRIMARY_ONLY",
+  "localization": "OVERRIDABLE",
   "type": {
     "stringType": {
       "stereotype": "SIMPLE",
@@ -12,3 +12,4 @@
   },
   "typeId": "string"
 }
+

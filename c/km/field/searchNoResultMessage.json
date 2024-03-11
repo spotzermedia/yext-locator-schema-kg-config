@@ -1,9 +1,9 @@
 {
-  "$id": "c_noDataMessage",
+  "$id": "c_searchNoResultMessage",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "No Data Message",
+  "displayName": "Search No Result Message",
   "group": "NONE",
-  "localization": "PRIMARY_ONLY",
+  "localization": "OVERRIDABLE",
   "type": {
     "stringType": {
       "stereotype": "SIMPLE",
@@ -12,3 +12,4 @@
   },
   "typeId": "string"
 }
+

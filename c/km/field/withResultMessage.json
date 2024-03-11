@@ -1,7 +1,7 @@
 {
-  "$id": "c_searchSubTitle",
+  "$id": "c_withResultMessage",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Search Sub Title",
+  "displayName": "With Result Message",
   "group": "NONE",
   "localization": "OVERRIDABLE",
   "type": {
